@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/profile/nuzulazmi/solutions)
-- Live Site URL: (https://nuzulazmi.github.io/product-preview-card/)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-social-proof-section-using-flexbox-and-media-query-hN1LFVX7sQ)
+- Live Site URL: (https://nuzulazmi.github.io/social-proof/)
 
 ## My process
 
